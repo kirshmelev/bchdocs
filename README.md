@@ -8,4 +8,4 @@
 
 ## Роль Инициатора
 
-- {Заявки в акселератор}(/docs/applications_axcel.md)
+- [Заявки в акселератор](/docs/applications_axcel.md)
